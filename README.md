@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/josepsanzcamp/josepsanz/master/img/profile.png)
-
 # Hola!!!
 El meu nom és Josep Sanz, sóc desenvolupador de software i un apassionat de la tecnologia. Si mires pels meus repositoris, veuràs que participo en diversos projectes de programari lliure, i que el projecte més actiu a nivell laboral és SaltOS.
 
